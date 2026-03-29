@@ -25,7 +25,6 @@ com foco em **Backend Web** e **Desenvolvimento de Jogos**.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua 5.1](https://img.shields.io/badge/Lua5.1-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 </div>
----
 
 ## 💻 Tecnologias do Backend 
 

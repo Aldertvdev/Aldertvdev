@@ -14,7 +14,9 @@ com foco em **Backend Web** e **Desenvolvimento de Jogos**.
 
 
 
-## 🌌 Tecnologias que uso
+## 🧑🏻‍💻 Tecnologias que uso
+
+**Linguagens Principais**
 
 <div align="left">
   
@@ -23,6 +25,7 @@ com foco em **Backend Web** e **Desenvolvimento de Jogos**.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua 5.1](https://img.shields.io/badge/Lua5.1-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 </div>
+---
 
 ## 💻 Tecnologias do Backend 
 
@@ -40,14 +43,20 @@ com foco em **Backend Web** e **Desenvolvimento de Jogos**.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </div>
 
-## Foco Atual
-Backend Web → Python + JavaScript
-Desenvolvimento de Jogos → C++ + Lua 5.1
+## 💻 Foco Atual
+
+**Backend Web**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Desenvolvimento de Jogos / Gameplay Scripting**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gabriel-souza?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
----
 
 ⭐ Obrigada por visitar meu perfil!

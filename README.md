@@ -39,6 +39,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </div>
 
+## Foco Atual
+Backend Web → Python + JavaScript
+Desenvolvimento de Jogos → C++ + Lua 5.1
+
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gabriel-souza?utm_source=share_via&utm_content=profile&utm_medium=member_android)

@@ -11,7 +11,7 @@
 - 🔭 **Com foco de estudo:** Phyton, Javascript, C++, Lua5.1
 - 🧠 **Habilidades:** criatividade, lógica, trabalho em equipe e facilidade de aprendizado
 
----
+
 
 ## 🌌 Tecnologias que uso
 
@@ -23,7 +23,21 @@
 ![Lua 5.1](https://img.shields.io/badge/Lua5.1-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 </div>
 
----
+## 💻 Tecnologias do Backend 
+
+<div align="left">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+## 💻⚙️ Scripting de Gameplay
+
+<div align="left">
+  
+![Lua 5.1](https://img.shields.io/badge/Lua5.1-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
 ## 🌐 Onde me encontrar
 

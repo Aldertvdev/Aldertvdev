@@ -9,10 +9,10 @@ const Yuri = {
   location   : "Porto Seguro, BAH — Brazil",
   languages  : "Portuguese(Native), Spain (intermediate) and Basic(English)",
 
-  currentlyBuilding : ["React Native", "React", "Python", "AWS Serverless", "Design Patterns"],
-  lookingFor        : ["Internship", "Open Source collaboration"],
-
-  superpower : "4x on the podium and once champion of Robocode @ Centro Paula Souza 🏆",
+  Academic
+ Background : CETIPS, 
+  
+  ",
 };
 ```
 

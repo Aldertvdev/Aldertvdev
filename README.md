@@ -1,6 +1,22 @@
 👀
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=46&center=true&vCenter=true&width=1100&lines=OI😃,+Sou+Yuri+Gabriel😁;Bem+Vindo+ao+meu+perfil;+Pretento+ser+Engenheiro+De+Software;Faço+jogos+no+Roblox+Studio;+Bom+Só+isso;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+## 👤 Who am I
+
+```cpp
+const joao = {
+  age        : 21,
+  location   : "Sorocaba, SP — Brazil",
+  education  : "Systems Development @ Fatec AMS",
+  english    : "Beginner & improving",
+
+  currentlyBuilding : ["React Native", "React", "Python", "AWS Serverless", "Design Patterns"],
+  lookingFor        : ["Internship", "Open Source collaboration"],
+
+  superpower : "4x on the podium and once champion of Robocode @ Centro Paula Souza 🏆",
+};
+```
+
 ### Futuro Desenvolvedor Front-End & Back-End.
 com foco em **Backend Web** e **Desenvolvimento de Jogos**.
 

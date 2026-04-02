@@ -10,7 +10,7 @@ const Yuri = {
   languages  : "Portuguese(Native), Spain (intermediate) and Basic(English)",
 
   Academic
- Background : CETIPS, 
+ Background : "CETIPS", 
   
   ",
 };
